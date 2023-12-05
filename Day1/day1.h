@@ -9,6 +9,8 @@
 class day1 {
     public:
     static int day_1();
+
+    static int day_1b();
 };
 
 
