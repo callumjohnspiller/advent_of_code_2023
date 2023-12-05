@@ -3,9 +3,9 @@
 #include "iostream"
 
 int main() {
-//    std::cout << day1::day_1() << std::endl;
-    std::cout << day1::day_1b() << std::endl;
-//    std::cout << day2::day_2() << std::endl;
-//    std::cout << day2::day_2b() << std::endl;
+    std::cout << "Day 1a: " << day1::day_1() << std::endl;
+    std::cout << "Day 1b: " << day1::day_1b() << std::endl;
+    std::cout << "Day 2a: " << day2::day_2() << std::endl;
+    std::cout << "Day 1b: " << day2::day_2b() << std::endl;
     return 0;
 }
