@@ -8,6 +8,11 @@
 
 class day3 {
 
+public:
+    static int day_3();
+
+    static int day_3b();
+
 };
 
 
